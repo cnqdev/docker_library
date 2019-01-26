@@ -1,1 +1,1 @@
-FROM docker pull gcr.io/google-containers/kube-scheduler:v1.13.2
+FROM gcr.io/google-containers/kube-scheduler:v1.13.2
